@@ -1,3 +1,6 @@
+# Output files
+*.pdf
+
 # Compiled artifacts
 *.exe
 *.dist/
