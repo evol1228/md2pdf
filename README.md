@@ -1,3 +1,5 @@
+# pure ai code but amazing tool
+
 # MD to PDF
 
 A lightweight Markdown to PDF converter with a built-in editor and live preview.
