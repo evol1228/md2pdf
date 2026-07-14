@@ -4,8 +4,9 @@
   <strong>A tiny desktop Markdown editor that previews in your browser and exports clean A4 PDFs.</strong>
 </p>
 
-<!-- TODO: Add a screenshot -->
-<!-- ![MD to PDF](assets/screenshot.png) -->
+<p align="center">
+  <img src="assets/screenshot.png" alt="MD to PDF" width="600" />
+</p>
 
 ---
 
